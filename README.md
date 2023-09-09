@@ -6,9 +6,7 @@
 ## 🔧 כלים שאני משתמש בהם
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 
 [![משתמש דיסקורד](https://lanyard.cnrad.dev/api/740548465737596998)](https://discord.com/users/740548465737596998)
 
