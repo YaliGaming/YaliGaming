@@ -1,7 +1,7 @@
 # שלום 👋, השם שלי הוא יהלי גיימינג
-- 📱 כנסו לשרת הדיסקורד שלי: https://discord.gg/YaliGaming
 - 🎥 אני יוצר תוכן.
 - 🤖 אני מקנפג מיינקראפט.
+- 📱 כנסו לשרת הדיסקורד שלי: https://discord.gg/YaliGaming
 
 ## 🔧 כלים שאני משתמש בהם
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
