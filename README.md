@@ -8,6 +8,5 @@
 
 ## 🌐 קישורים:
 [![דיסקורד](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://yaligaming.com/discord) [![יוטיוב](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yaligaming) 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
